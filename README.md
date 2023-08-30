@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependency installation
+
+npm install mathjs
+[Mathjs](https://mathjs.org)
+
 ## Available Scripts
 
 In the project directory, you can run:
